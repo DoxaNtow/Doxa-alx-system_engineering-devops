@@ -6,7 +6,7 @@ count=0
 
 while [ $count -lt 10 ]
 do
-  if [ $count -eq 8 ]  # Checking for the 9th iteration (as counting starts from 0)
+  if [ $count -eq 9 ]  # Checking for the 9th iteration (as counting starts from 0)
   then
     echo "Hi"
   fi
